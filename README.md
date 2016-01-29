@@ -1,5 +1,5 @@
-# DGElasticPullToRefresh
-Elastic pull to refresh compontent developed in Swift
+# DGElasticPullToRefresh-add-pull-up- depend on DGElasticPullToRefresh
+Elastic pull&up to refresh compontent developed in Swift
 
 Inspired by this Dribbble post: [Pull Down to Refresh](https://dribbble.com/shots/2232385-Pull-Down-to-Refresh) by [Hoang Nguyen](https://dribbble.com/Hoanguyen)
 
@@ -8,6 +8,7 @@ Tutorial on how this bounce effect was achieved can be found [here](http://iostu
 ![](https://raw.githubusercontent.com/lantun/DGElasticPullToRefresh-add-pull-up-/master/DGElasticPullToRefreshPreview1.gif)
 ![](https://raw.githubusercontent.com/lantun/DGElasticPullToRefresh-add-pull-up-/master/DGElasticPullToRefreshPreview2.gif)
 ![](https://raw.githubusercontent.com/lantun/DGElasticPullToRefresh-add-pull-up-/master/DGElasticPullToRefreshPreview3.gif)
+
 
 ## Requirements
 * Xcode 7 or higher
