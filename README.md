@@ -5,8 +5,9 @@ Inspired by this Dribbble post: [Pull Down to Refresh](https://dribbble.com/shot
 
 Tutorial on how this bounce effect was achieved can be found [here](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/).
 
-![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
-![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview2.gif)
+![](https://raw.githubusercontent.com/lantun/DGElasticPullToRefresh-add-pull-up-/master/DGElasticPullToRefreshPreview1.gif)
+![](https://raw.githubusercontent.com/lantun/DGElasticPullToRefresh-add-pull-up-/master/DGElasticPullToRefreshPreview2.gif)
+![](https://raw.githubusercontent.com/lantun/DGElasticPullToRefresh-add-pull-up-/master/DGElasticPullToRefreshPreview3.gif)
 
 ## Requirements
 * Xcode 7 or higher
@@ -19,12 +20,6 @@ Tutorial on how this bounce effect was achieved can be found [here](http://iostu
 Open and run the DGElasticPullToRefreshExample project in Xcode to see DGElasticPullToRefresh in action.
 
 ## Installation
-
-### Cocoapods
-
-``` ruby
-pod "DGElasticPullToRefresh"
-```
 
 ### Manual
 
@@ -97,7 +92,7 @@ func dg_setPullToRefreshFillColor(color: UIColor)
 
 Please feel free to submit pull requests. Cannot wait to see your custom loading views for this pull to refresh.
 
-## Contact
+## Contact(don't contact me and really author follow:别找我，真正的作者在下面)
 
 Danil Gontovnik
 
